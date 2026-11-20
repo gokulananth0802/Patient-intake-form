@@ -1,0 +1,6 @@
+{
+  "name": "Patient Record Entry",
+  "description": "Mock hospital patient-history intake form with controlled React inputs, live JSON state inspector, late-rendering skeleton, and localStorage persistence for testing DOM automation extensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
